@@ -70,5 +70,5 @@ Incorrect questions are prioritized in future attempts.
 * Neyati
 
 ## Deployment Link
+https://quizzy009.netlify.app/
 
-https://quizliify.netlify.app/
